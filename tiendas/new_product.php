@@ -1,5 +1,4 @@
 <?php 
-include('common/utils.php');
 if($_GET) {
 	if(isset($_GET['error_message'])) {
 		$error_message = $_GET['error_message'];

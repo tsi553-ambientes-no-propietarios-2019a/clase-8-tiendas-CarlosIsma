@@ -1,5 +1,5 @@
 <?php
-include('common/utils.php');
+include('common/utils.php')
 ?>
 
 <!DOCTYPE html>
@@ -14,6 +14,8 @@ include('common/utils.php');
         <input type="text" name="username" placeholder="Usuario">
         <input type="password" name="password" placeholder="Clave">
         <button>Ingresar</button>
+
+        <a href="registration.php">Registrarme</a>
     </form>
 </body>
 </html>
